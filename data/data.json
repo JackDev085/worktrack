@@ -1,0 +1,72 @@
+[
+  {
+      "name": "Agachamento",
+      "description": "Exercício para pernas e glúteos.",
+      "gif_url": "http://example.com/agachamento.gif",
+      "equipment": "1",
+      "muscles": ["1", "3"]
+  },
+  {
+      "name": "Flexão",
+      "description": "Exercício para peito e tríceps.",
+      "gif_url": "http://example.com/flexao.gif",
+      "equipment": "6",
+      "muscles": ["7", "6"]
+  },
+  {
+      "name": "Supino",
+      "description": "Exercício para peito, ombros e tríceps.",
+      "gif_url": "http://example.com/supino.gif",
+      "equipment": "1",
+      "muscles": ["7", "9", "6"]
+  },
+  {
+      "name": "Rosca Direta",
+      "description": "Exercício para bíceps.",
+      "gif_url": "http://example.com/rosca_direta.gif",
+      "equipment": "2",
+      "muscles": ["5"]
+  },
+  {
+      "name": "Levantamento Terra",
+      "description": "Exercício para pernas, glúteos e costas.",
+      "gif_url": "http://example.com/levantamento_terra.gif",
+      "equipment": "1",
+      "muscles": ["1", "3", "8"]
+  },
+  {
+      "name": "Puxada na Polia",
+      "description": "Exercício para costas e bíceps.",
+      "gif_url": "http://example.com/puxada_na_polia.gif",
+      "equipment": "5",
+      "muscles": ["8", "5"]
+  },
+  {
+      "name": "Abdominal",
+      "description": "Exercício para abdômen.",
+      "gif_url": "http://example.com/abdominal.gif",
+      "equipment": "6",
+      "muscles": ["10"]
+  },
+  {
+      "name": "Kettlebell Swing",
+      "description": "Exercício para pernas, glúteos e core.",
+      "gif_url": "http://example.com/kettlebell_swing.gif",
+      "equipment": "3",
+      "muscles": ["1", "3", "10"]
+  },
+  {
+      "name": "Dorsal",
+      "description": "Exercício para costas.",
+      "gif_url": "http://example.com/dorsal.gif",
+      "equipment": "4",
+      "muscles": ["8"]
+  },
+  {
+      "name": "Tríceps Testa",
+      "description": "Exercício para tríceps.",
+      "gif_url": "http://example.com/triceps_testa.gif",
+      "equipment": "2",
+      "muscles": ["6"]
+  }
+]

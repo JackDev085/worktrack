@@ -1,0 +1,626 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "secrets",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "secrets",
+        "description": "secrets",
+        "detail": "secrets",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "dj_database_url",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dj_database_url",
+        "description": "dj_database_url",
+        "detail": "dj_database_url",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "workouts",
+        "description": "workouts",
+        "isExtraImport": true,
+        "detail": "workouts",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "BaseCommand",
+        "importPath": "django.core.management.base",
+        "description": "django.core.management.base",
+        "isExtraImport": true,
+        "detail": "django.core.management.base",
+        "documentation": {}
+    },
+    {
+        "label": "make_aware",
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "isExtraImport": true,
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "Exercicio",
+        "importPath": "workouts.models",
+        "description": "workouts.models",
+        "isExtraImport": true,
+        "detail": "workouts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Equipamento",
+        "importPath": "workouts.models",
+        "description": "workouts.models",
+        "isExtraImport": true,
+        "detail": "workouts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Musculo",
+        "importPath": "workouts.models",
+        "description": "workouts.models",
+        "isExtraImport": true,
+        "detail": "workouts.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Schema",
+        "importPath": "ninja",
+        "description": "ninja",
+        "isExtraImport": true,
+        "detail": "ninja",
+        "documentation": {}
+    },
+    {
+        "label": "Exercise",
+        "importPath": "workouts.schema",
+        "description": "workouts.schema",
+        "isExtraImport": true,
+        "detail": "workouts.schema",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "api.asgi",
+        "description": "api.asgi",
+        "peekOfCode": "app = get_asgi_application()",
+        "detail": "api.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "api.settings",
+        "description": "api.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\nSECRET_KEY = os.environ.get(\n    \"DJANGO_SECRET_KEY\",\n    default=secrets.token_urlsafe(nbytes=64),\n)\n# The `DYNO` env var is set on Heroku CI, but it's not a real Heroku app, so we have to\n# also explicitly exclude CI:\n# https://devcenter.heroku.com/articles/heroku-ci#immutable-environment-variables\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = False",
+        "detail": "api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "api.settings",
+        "description": "api.settings",
+        "peekOfCode": "SECRET_KEY = os.environ.get(\n    \"DJANGO_SECRET_KEY\",\n    default=secrets.token_urlsafe(nbytes=64),\n)\n# The `DYNO` env var is set on Heroku CI, but it's not a real Heroku app, so we have to\n# also explicitly exclude CI:\n# https://devcenter.heroku.com/articles/heroku-ci#immutable-environment-variables\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = False\n# On Heroku, it's safe to use a wildcard for `ALLOWED_HOSTS``, since the Heroku router performs",
+        "detail": "api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "api.settings",
+        "description": "api.settings",
+        "peekOfCode": "DEBUG = False\n# On Heroku, it's safe to use a wildcard for `ALLOWED_HOSTS``, since the Heroku router performs\n# validation of the Host header in the incoming HTTP request. On other platforms you may need to\n# list the expected hostnames explicitly in production to prevent HTTP Host header attacks. See:\n# https://docs.djangoproject.com/en/5.0/ref/settings/#std-setting-ALLOWED_HOSTS\nALLOWED_HOSTS = ['127.0.0.1', '.vercel.app']\n# Application definition\nINSTALLED_APPS = [\n    \"whitenoise.runserver_nostatic\",\n    \"django.contrib.admin\",",
+        "detail": "api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "api.settings",
+        "description": "api.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['127.0.0.1', '.vercel.app']\n# Application definition\nINSTALLED_APPS = [\n    \"whitenoise.runserver_nostatic\",\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",",
+        "detail": "api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "api.settings",
+        "description": "api.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    \"whitenoise.runserver_nostatic\",\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"workouts\",\n]",
+        "detail": "api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "api.settings",
+        "description": "api.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"whitenoise.middleware.WhiteNoiseMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]",
+        "detail": "api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "api.settings",
+        "description": "api.settings",
+        "peekOfCode": "ROOT_URLCONF = \"api.urls\"\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [BASE_DIR / \"templates\"],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",",
+        "detail": "api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "api.settings",
+        "description": "api.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [BASE_DIR / \"templates\"],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",\n                \"django.contrib.auth.context_processors.auth\",",
+        "detail": "api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "api.settings",
+        "description": "api.settings",
+        "peekOfCode": "WSGI_APPLICATION = \"api.wsgi.app\"\nDATABASES = {\n        \"default\": {\n            \"ENGINE\": \"django.db.backends.sqlite3\",\n            \"NAME\": BASE_DIR / \"db.sqlite3\",\n        }\n    }\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",",
+        "detail": "api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "api.settings",
+        "description": "api.settings",
+        "peekOfCode": "DATABASES = {\n        \"default\": {\n            \"ENGINE\": \"django.db.backends.sqlite3\",\n            \"NAME\": BASE_DIR / \"db.sqlite3\",\n        }\n    }\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },",
+        "detail": "api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "api.settings",
+        "description": "api.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.CommonPasswordValidator\",\n    },",
+        "detail": "api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "api.settings",
+        "description": "api.settings",
+        "peekOfCode": "LANGUAGE_CODE = \"pt-br\"\nTIME_ZONE = \"America/Fortaleza\"\nUSE_I18N = True\nUSE_TZ = True\nSTATIC_ROOT = BASE_DIR / \"staticfiles\"\nSTATIC_URL = \"static/\"\nSTORAGES = {\n    \"staticfiles\": {\n        \"BACKEND\": \"whitenoise.storage.CompressedManifestStaticFilesStorage\",\n    },",
+        "detail": "api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "api.settings",
+        "description": "api.settings",
+        "peekOfCode": "TIME_ZONE = \"America/Fortaleza\"\nUSE_I18N = True\nUSE_TZ = True\nSTATIC_ROOT = BASE_DIR / \"staticfiles\"\nSTATIC_URL = \"static/\"\nSTORAGES = {\n    \"staticfiles\": {\n        \"BACKEND\": \"whitenoise.storage.CompressedManifestStaticFilesStorage\",\n    },\n}",
+        "detail": "api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "api.settings",
+        "description": "api.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\nSTATIC_ROOT = BASE_DIR / \"staticfiles\"\nSTATIC_URL = \"static/\"\nSTORAGES = {\n    \"staticfiles\": {\n        \"BACKEND\": \"whitenoise.storage.CompressedManifestStaticFilesStorage\",\n    },\n}\nSTATICFILES_DIRS = [",
+        "detail": "api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "api.settings",
+        "description": "api.settings",
+        "peekOfCode": "USE_TZ = True\nSTATIC_ROOT = BASE_DIR / \"staticfiles\"\nSTATIC_URL = \"static/\"\nSTORAGES = {\n    \"staticfiles\": {\n        \"BACKEND\": \"whitenoise.storage.CompressedManifestStaticFilesStorage\",\n    },\n}\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\",",
+        "detail": "api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "api.settings",
+        "description": "api.settings",
+        "peekOfCode": "STATIC_ROOT = BASE_DIR / \"staticfiles\"\nSTATIC_URL = \"static/\"\nSTORAGES = {\n    \"staticfiles\": {\n        \"BACKEND\": \"whitenoise.storage.CompressedManifestStaticFilesStorage\",\n    },\n}\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n]",
+        "detail": "api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "api.settings",
+        "description": "api.settings",
+        "peekOfCode": "STATIC_URL = \"static/\"\nSTORAGES = {\n    \"staticfiles\": {\n        \"BACKEND\": \"whitenoise.storage.CompressedManifestStaticFilesStorage\",\n    },\n}\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n]\nWHITENOISE_KEEP_ONLY_HASHED_FILES = True",
+        "detail": "api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STORAGES",
+        "kind": 5,
+        "importPath": "api.settings",
+        "description": "api.settings",
+        "peekOfCode": "STORAGES = {\n    \"staticfiles\": {\n        \"BACKEND\": \"whitenoise.storage.CompressedManifestStaticFilesStorage\",\n    },\n}\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n]\nWHITENOISE_KEEP_ONLY_HASHED_FILES = True\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "api.settings",
+        "description": "api.settings",
+        "peekOfCode": "STATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n]\nWHITENOISE_KEEP_ONLY_HASHED_FILES = True\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WHITENOISE_KEEP_ONLY_HASHED_FILES",
+        "kind": 5,
+        "importPath": "api.settings",
+        "description": "api.settings",
+        "peekOfCode": "WHITENOISE_KEEP_ONLY_HASHED_FILES = True\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "api.settings",
+        "description": "api.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "api.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "api.urls",
+        "description": "api.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', views.index, name='index'),\n    path('pesquisa', views.pesquisa, name='pesquisa'),\n    path('exercicio/<int:id>', views.exercicio, name='exercicio'),\n]",
+        "detail": "api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "api.wsgi",
+        "description": "api.wsgi",
+        "peekOfCode": "app = get_wsgi_application()",
+        "detail": "api.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "kind": 6,
+        "importPath": "workouts.management.commands.insere_exercicios",
+        "description": "workouts.management.commands.insere_exercicios",
+        "peekOfCode": "class Command(BaseCommand):\n    help = 'Importa dados de exercícios a partir de um arquivo JSON'\n    def handle(self, *args, **kwargs):\n        # Caminho para o arquivo JSON\n        datafile = 'data/data.json'\n        # Verifica se o arquivo existe\n        if not os.path.exists(datafile):\n            self.stdout.write(self.style.ERROR(f'Arquivo não encontrado: {datafile}'))\n            return\n        # Carrega o arquivo JSON",
+        "detail": "workouts.management.commands.insere_exercicios",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "workouts.migrations.0001_initial",
+        "description": "workouts.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Categoria',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=40, unique=True)),",
+        "detail": "workouts.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "workouts.migrations.0002_remove_exercicio_category_delete_categoria",
+        "description": "workouts.migrations.0002_remove_exercicio_category_delete_categoria",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('workouts', '0001_initial'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='exercicio',\n            name='category',\n        ),\n        migrations.DeleteModel(",
+        "detail": "workouts.migrations.0002_remove_exercicio_category_delete_categoria",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "workouts.migrations.0003_exercicio_musculo_delete_musculoexercicio",
+        "description": "workouts.migrations.0003_exercicio_musculo_delete_musculoexercicio",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('workouts', '0002_remove_exercicio_category_delete_categoria'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='exercicio',\n            name='musculo',\n            field=models.ManyToManyField(related_name='musculos', to='workouts.musculo'),\n        ),",
+        "detail": "workouts.migrations.0003_exercicio_musculo_delete_musculoexercicio",
+        "documentation": {}
+    },
+    {
+        "label": "WorkoutsConfig",
+        "kind": 6,
+        "importPath": "workouts.apps",
+        "description": "workouts.apps",
+        "peekOfCode": "class WorkoutsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'workouts'",
+        "detail": "workouts.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Equipamento",
+        "kind": 6,
+        "importPath": "workouts.models",
+        "description": "workouts.models",
+        "peekOfCode": "class Equipamento(models.Model):\n    name = models.CharField(max_length=20, choices=EQUIPMENT_CHOICES)\n    def __str__(self):\n        return self.get_name_display()\nclass Musculo(models.Model):\n    name = models.CharField(max_length=20, choices=MUSCLES_CHOICES)\n    def __str__(self):\n        return self.get_name_display()\nclass Exercicio(models.Model):\n    name = models.CharField(max_length=40, unique=True)",
+        "detail": "workouts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Musculo",
+        "kind": 6,
+        "importPath": "workouts.models",
+        "description": "workouts.models",
+        "peekOfCode": "class Musculo(models.Model):\n    name = models.CharField(max_length=20, choices=MUSCLES_CHOICES)\n    def __str__(self):\n        return self.get_name_display()\nclass Exercicio(models.Model):\n    name = models.CharField(max_length=40, unique=True)\n    description = models.TextField()\n    gif_url = models.URLField(max_length=200)\n    equipment = models.ForeignKey(\"Equipamento\", on_delete=models.CASCADE)\n    musculo = models.ManyToManyField(Musculo, related_name='musculos')",
+        "detail": "workouts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Exercicio",
+        "kind": 6,
+        "importPath": "workouts.models",
+        "description": "workouts.models",
+        "peekOfCode": "class Exercicio(models.Model):\n    name = models.CharField(max_length=40, unique=True)\n    description = models.TextField()\n    gif_url = models.URLField(max_length=200)\n    equipment = models.ForeignKey(\"Equipamento\", on_delete=models.CASCADE)\n    musculo = models.ManyToManyField(Musculo, related_name='musculos')\n    def __str__(self):\n        return self.name",
+        "detail": "workouts.models",
+        "documentation": {}
+    },
+    {
+        "label": "EQUIPMENT_CHOICES",
+        "kind": 5,
+        "importPath": "workouts.models",
+        "description": "workouts.models",
+        "peekOfCode": "EQUIPMENT_CHOICES = (\n    ('1', 'Barra'),\n    ('2', 'Haltere'),\n    ('3', 'Kettlebell'),\n    ('4', 'Máquina'),\n    ('5', 'Polia'),\n    ('6', 'Peso Corporal'),\n    ('7', 'Banco'),\n)\nMUSCLES_CHOICES = (",
+        "detail": "workouts.models",
+        "documentation": {}
+    },
+    {
+        "label": "MUSCLES_CHOICES",
+        "kind": 5,
+        "importPath": "workouts.models",
+        "description": "workouts.models",
+        "peekOfCode": "MUSCLES_CHOICES = (\n    ('1', 'Quadríceps'),\n    ('2', 'Posterior'),\n    ('3', 'Glúteos'),\n    ('4', 'Panturrilha'),\n    ('5', 'Bíceps'),\n    ('6', 'Tríceps'),\n    ('7', 'Peito'),\n    ('8', 'Costas'),\n    ('9', 'Ombros'),",
+        "detail": "workouts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Equipament",
+        "kind": 6,
+        "importPath": "workouts.schema",
+        "description": "workouts.schema",
+        "peekOfCode": "class Equipament(Schema):\n  name = str\nclass Muscles(Schema):\n  name = str\nclass Exercise(Schema):\n  name = str\n  description = str\n  gif_url = str\n  category_id: int\n  equipment_id: int",
+        "detail": "workouts.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Muscles",
+        "kind": 6,
+        "importPath": "workouts.schema",
+        "description": "workouts.schema",
+        "peekOfCode": "class Muscles(Schema):\n  name = str\nclass Exercise(Schema):\n  name = str\n  description = str\n  gif_url = str\n  category_id: int\n  equipment_id: int\n  class ExerciseMuscles(Schema):\n    exercise_id: int",
+        "detail": "workouts.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Exercise",
+        "kind": 6,
+        "importPath": "workouts.schema",
+        "description": "workouts.schema",
+        "peekOfCode": "class Exercise(Schema):\n  name = str\n  description = str\n  gif_url = str\n  category_id: int\n  equipment_id: int\n  class ExerciseMuscles(Schema):\n    exercise_id: int\n    muscle_id: int\nclass NotFoundSchema(Schema):",
+        "detail": "workouts.schema",
+        "documentation": {}
+    },
+    {
+        "label": "NotFoundSchema",
+        "kind": 6,
+        "importPath": "workouts.schema",
+        "description": "workouts.schema",
+        "peekOfCode": "class NotFoundSchema(Schema):\n  message: str",
+        "detail": "workouts.schema",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "workouts.views",
+        "description": "workouts.views",
+        "peekOfCode": "def index(request):\n  return render(request, \"index.html\")\ndef pesquisa(request):\n  url_paramns= request.GET.get(\"search\") \n  exercicios = Exercicio.objects.filter(name__icontains=url_paramns)\n  return render(request, \"ver_exercicios.html\", {\"exercicios\": exercicios, \"search\":url_paramns})\ndef exercicio(request, id):\n  exercicio = Exercicio.objects.get(pk=id)\n  musculos = exercicio.musculo.all()\n  return render(request, \"ver_exercicio.html\", {\"exercicio\": exercicio, \"musculos\": musculos})",
+        "detail": "workouts.views",
+        "documentation": {}
+    },
+    {
+        "label": "pesquisa",
+        "kind": 2,
+        "importPath": "workouts.views",
+        "description": "workouts.views",
+        "peekOfCode": "def pesquisa(request):\n  url_paramns= request.GET.get(\"search\") \n  exercicios = Exercicio.objects.filter(name__icontains=url_paramns)\n  return render(request, \"ver_exercicios.html\", {\"exercicios\": exercicios, \"search\":url_paramns})\ndef exercicio(request, id):\n  exercicio = Exercicio.objects.get(pk=id)\n  musculos = exercicio.musculo.all()\n  return render(request, \"ver_exercicio.html\", {\"exercicio\": exercicio, \"musculos\": musculos})",
+        "detail": "workouts.views",
+        "documentation": {}
+    },
+    {
+        "label": "exercicio",
+        "kind": 2,
+        "importPath": "workouts.views",
+        "description": "workouts.views",
+        "peekOfCode": "def exercicio(request, id):\n  exercicio = Exercicio.objects.get(pk=id)\n  musculos = exercicio.musculo.all()\n  return render(request, \"ver_exercicio.html\", {\"exercicio\": exercicio, \"musculos\": musculos})",
+        "detail": "workouts.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'api.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"\n        ) from exc",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

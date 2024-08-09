@@ -1,0 +1,29 @@
+{% extends "base.html" %} {% block content %}
+<div>
+  <h1 class="text-center mt-5">Bem-vindo ao Workout Tracker</h1>
+  <p class="text-center">
+    Aqui você pode pesquisar por exercícios e ter mais informação sobre eles
+  </p>
+  <div class="d-flex justify-content-center mt-5">
+    <form method="get" action="{% url "pesquisa" %}">
+    <div class="input-group mb-3">
+      <input
+        type="text"
+        class="form-control"
+        placeholder="Pesquise por exercícios"
+        aria-label="Pesquise por exercícios"
+        aria-describedby="button-addon2"
+        name="search"
+        required
+      />
+      <button
+        class="btn btn-outline-secondary"
+        type="submit"
+        id="button-addon2"
+      >
+        Pesquisar
+      </button>
+    </div>
+  </div>
+</div>
+{% endblock content %}
